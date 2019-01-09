@@ -1,0 +1,346 @@
+[Global]
+CurrentProject=bbpasgen.vpj
+[ProjectDates]
+bbpasgen.vpj=20190107140234983
+[ActiveConfig]
+bbpasgen.vpj=,Release
+[TreeExpansion2]
+-@ bbpasgen.vpj
+  + Source Files
+  + Header Files
+  + Resource Files
+  + Bitmaps
+  + Other Files
+scroll:0
+[State]
+SCREEN: 2560 1600 104 217 1202 998 0 0 M 0 0 0 0 2201 1244 0
+CWD: 
+BUFFER: BN="bbpasgen.cpp"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=C/C++	HM=0 MF=118620768 TL=0 MLL=0 ASE=0 LNL=1 LCF=6 CAPS=0 E=70 ESBU2=-1 CL="" SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT= SWF=2
+VIEW: LN=.627 CL=16 LE=0 CX=15 CY=41 WI=5 BI=1 HT=0 HN=0 HF=0 HC=4
+WINDOW: 1 22 2199 1221 0 0 N  WF=0 WT=2 "Default Unicode Font,10,0,1" DID=0
+BUFFER: BN="bbpasgen.cpp"""""
+VIEW: LN=.627 CL=16 LE=0 CX=21 CY=41 WI=15 BI=1 HT=0 HN=0 HF=0 HC=4
+MDISTATE: 1
+AAAAAwAAAAIAAAAD2gAAAAIAMAAAAAAAAAAgAAAJvgAABg4AAABBAAAAGAAACf8AAAY/AAAAAuoAAACOAAAAAvsAAAABAAAAAQAAAAD7AAAAAQAAAAEAAAAA/AAAAGsAAAAAXgAyADoAOgA6AC8AaABvAG0AZQAvAHMAbABlAGUAcAB5ADkAMAA5ADAALwB3AG8AcgBrAHMAcABhAGMAZQA5ADAAOQAwAC8AYgBiAHAAYQBzAGcAZQBuAC4AYwBwAHABAP////8AAQAAAADaAAAAHgAwAC0AMQA1ADMAMwAxADQAMgA4ADQANAAyADgAMgBOAAACFwAAAK0AAASOAAAFYAAAAEEAAAAYAAAJ/wAABj8AAAAC6gAAABYAAAAC+wAAAAAAAAAA+wAAAAAAAAAAAAAAANoAAAAeADAALQAxADUAMwA3ADQANgA0ADEANAAzADMAMgA0AE4AAABJAAAAhAAABbwAAAIdAAAAQQAAABgAAAn/AAAGPwAAAALqAAAAFgAAAAL7AAAAAAAAAAD7AAAAAAAAAAAAAAAA
+FILEHIST: 9
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Main.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Options.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Options.hpp
+../workspace/imm-application/imm/go/src/crown/systembus/resources/SystemBus.fbs
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Slave_SBIO_Link.hpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Slave_SBIO_Link.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/sb_comm.hpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/sb_comm.cpp
+bbpasgen.cpp
+ALLFILEHIST: 64
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Util.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/UserInterface.cpp
+../workspace/imm-application/imm/go/src/crown/systembus/resources/SystemBus.fbs
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/SwitchInput.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Slave_SBIO_Link.hpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Slave_SBIO_Link.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/SharedData.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Session.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/ScreenFlow.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/sb_comm.hpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/sb_comm.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/SafetyReminders.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/test/rpc_server/src/rpc_server.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/ProgramBusIntf.cpp
+../workspace/imm-application/imm/imm_rfs_overlay/etc/crown/init/production.yaml
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/PowerControl.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/test/rpc_server/src/Options.hpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Options.hpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/test/rpc_server/src/Options.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Options.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/test/rpc_server/src/Main.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Main.cpp
+../workspace/imm-application/imm/imm_db_apps/common/src/Logger.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/logfile.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/KPM.cpp
+/usr/include/getopt.h
+/tmp/VMwareDnD/MJ0yeP/Engineering Calibration Changes.pdf
+../workspace/imm-application/imm/imm_db_apps/common/include/db_utility.hpp
+../workspace/imm-application/imm/imm_db_apps/AudioService/src/db_intf.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/db_access_class.cpp
+../workspace/imm-application/imm/imm_db_apps/common/include/db_access.hpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/test/rpc_server/src/db_access.cpp
+../workspace/imm-application/imm/imm_db_apps/EventEngine/src/datalog.hpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/datalog.hpp
+../workspace/imm-application/imm/imm_db_apps/common/include/CrownMcoTrans.hpp
+../workspace/imm-application/imm/imm_db_apps/common/include/CrownMakeUnique.h
+../workspace/imm-application/imm/imm_db_apps/common/include/CrownIntegerSequence.h
+../workspace/imm-application/imm/imm_db_apps/common/include/CrownException.h
+../workspace/imm-application/imm/imm_db_apps/common/include/CrownCatchTrompeloeil.h
+../workspace/imm-application/imm/imm_db_apps/common/include/crown_tuple.h
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/ControlProcess.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/Control_Set.cpp
+/usr/include/google/protobuf/stubs/common.h
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/CheckListData.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/CheckListControl.hpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/CheckListControl.cpp
+../workspace/imm-application/imm/imm_db_apps/CalibrationEngine/src/CalibUI.cpp
+../workspace/imm-application/imm/imm_db_apps/CalibrationEngine/src/CalibMaster.cpp
+../workspace/imm-application/imm/imm_db_apps/CalibrationEngine/src/CalibEngine.cpp
+../workspace/imm-application/imm/imm_db_apps/CalibrationEngine/src/CalibDB.cpp
+../workspace/imm-application/imm/imm_db_apps/CalibrationEngine/src/CalibComm.cpp
+../workspace/imm-application/imm/imm_db_apps/EventEngine/src/bus_utils.hpp
+../workspace/imm-application/imm/proj_common/src/bus_utils.cpp
+../workspace/imm-application/imm/imm_db_apps/EventEngine/src/bus_utils.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/BHM.cpp
+bbpasgen.cpp
+../workspace/imm-application/imm/imm_db_apps/common/include/BaseDao.h
+../workspace/imm-application/imm/imm_db_apps/AudioService/src/audio_service_common.hpp
+../workspace/imm-application/imm/imm_db_apps/AudioService/src/audio_service_common.cpp
+../workspace/imm-application/imm/imm_db_apps/AudioService/src/audio_intf.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/application_handler.cpp
+../workspace/imm-application/imm/imm_db_apps/ControlProcess/src/AppBaseCommUser.hpp
+../workspace/imm-application/imm/imm_db_apps/CalibrationEngine/src/AppBaseCommUser.hpp
+../workspace/imm-application/imm/imm_db_apps/EventEngine/src/app_args.hpp
+DEBUG: 0 0 5 0 5 0 gdb
+00mainbbpasgen.cpp26610x00000000004026100
+00mainbbpasgen.cpp26910x00000000004026710
+00mainbbpasgen.cpp27210x00000000004026ba0
+00mainbbpasgen.cpp28410x00000000004026f50
+00mainbbpasgen.cpp28510x00000000004027230
+printf
+strcpy
+strcmp
+std::*
+boost::*
+DEBUG2: 5
+00mainbbpasgen.cpp26610x0000000000402610045
+try
+{
+for(inti=0;i<strlen(d0);i++)
+{
+cout<<"d0[i]:"<<d0[i]<<endl;
+cout<<"d1[i]:"<<d1[i]<<endl;
+chartmp=d0[i]^d1[i];
+cout<<"tmp:"<<tmp<<endl;
+
+output[i]=tmp;
+00mainbbpasgen.cpp26910x0000000000402671055
+for(inti=0;i<strlen(d0);i++)
+{
+cout<<"d0[i]:"<<d0[i]<<endl;
+cout<<"d1[i]:"<<d1[i]<<endl;
+chartmp=d0[i]^d1[i];
+cout<<"tmp:"<<tmp<<endl;
+
+output[i]=tmp;
+cout<<"output[i]:"<<output[i]<<endl;
+//output[i]=d0[i]^d1[i];
+cout<<"i:"<<i<<endl;
+00mainbbpasgen.cpp27210x00000000004026ba055
+cout<<"d1[i]:"<<d1[i]<<endl;
+chartmp=d0[i]^d1[i];
+cout<<"tmp:"<<tmp<<endl;
+
+output[i]=tmp;
+cout<<"output[i]:"<<output[i]<<endl;
+//output[i]=d0[i]^d1[i];
+cout<<"i:"<<i<<endl;
+}
+}
+catch(exception&e)
+00mainbbpasgen.cpp28410x00000000004026f5055
+cout<<"Standardexception:"<<e.what()<<endl;
+}
+catch(...)
+{
+cout<<"CaughtException"<<endl;
+}
+//output[4]='\0';
+cout<<"output(d1xored):"<<output<<endl;
+cout<<"output[0]:"<<output[0]<<endl;
+
+//cout<<"Superflag:"<<superFlag<<endl;
+00mainbbpasgen.cpp28510x0000000000402723055
+}
+catch(...)
+{
+cout<<"CaughtException"<<endl;
+}
+//output[4]='\0';
+cout<<"output(d1xored):"<<output<<endl;
+cout<<"output[0]:"<<output[0]<<endl;
+
+//cout<<"Superflag:"<<superFlag<<endl;
+//cout<<"CrystalBallflag:"<<crystalBallFlag<<endl;
+DEBUG_LAYOUT: 55 1 41 8 5 M 0
+_tbclass_form F=8
+_tbderivedclasses_form F=40
+_tbbaseclasses_form F=40
+_tbdebug_classes_form F=64
+_tbdebug_threads_form F=64
+_tbopen_form F=40
+_tbslickc_stack_form F=8
+_tbregex_form F=40
+_tbdebug_exceptions_form F=384
+_tboutputwin_form F=8
+_tbtagrefs_form F=8
+_tbtagwin_form F=8
+_tbfind_symbol_form F=32
+_tbsymbol_props_form F=8
+_tbsearch_form F=8
+_tbbookmarks_form F=8
+_tbfind_form F=36
+_tbdeltasave_form F=0
+_tbunittest_form F=0
+_tbsymbolcalls_form F=40
+_tbshell_form F=8
+_tbdebug_stack_form F=64
+_tbdebug_regs_form F=64
+_tbclipboard_form F=44
+_tbbufftabs_form F=11
+_tbdebug_members_form F=64
+_tbdebug_memory_form F=64
+_tbFTPOpen_form F=0
+_tbfilelist_form F=44
+_tbmessages_browser_form F=8
+_tbFTPClient_form F=0
+_tbdebug_watches_form F=64
+_tbnotification_form F=36
+_tbsymbol_args_form F=8
+_tbannotations_browser_form F=0
+_tbcbrowser_form F=8
+_tbproctree_form F=8
+_tbprojects_form F=8
+_tbdebug_locals_form F=64
+_tbdebug_autovars_form F=64
+_tbdebug_breakpoints_form F=384
+_tbdebug_members_form T=0
+_tbdebug_autovars_form T=0
+_tbdebug_exceptions_form T=0
+_tbdebug_watches_form T=0
+_tbdebug_locals_form T=0
+_tboutputwin_form T=1
+_tbdebug_stack_form T=0
+_tbdebug_breakpoints_form T=0
+AAAAAwAAAAEAAAAB2gAAAAIAMAAAAAAAAABAAAAJvgAABg4AAABBAAAAGAAACf8AAAY/AAAAAesAAAViAAAAAPsAAAACAAAAAgAAAAEAAAAA+wAAAAIAAAACAAAAAAAAAAH9AAAB1wAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAYwAAAAAAAH7AAAAAgAAAAIAAAAAAAAAAfsAAAACAAAAAgAAAAEAAAAA/QAAAI0AAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAAPHAAAAAAAC+wAAAAEAAAABAAAAAPsAAAABAAAAAQAAAAD8AAAAQwAAAAAuADAAOgA6ADoAXwB0AGIAZABlAGIAdQBnAF8AcwB0AGEAYwBrAF8AZgBvAHIAbQEA/////wAA///////////9AAAA8wAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAASAAAAAAAAL7AAAAAgAAAAIAAAAAAAAAAfsAAAACAAAAAgAAAAAAAAAB/AAAAE8AAAAAOgAwADoAOgA6AF8AdABiAGQAZQBiAHUAZwBfAGIAcgBlAGEAawBwAG8AaQBuAHQAcwBfAGYAbwByAG0BAP////8AAP///////////AAAAE0AAAAAOAAwADoAOgA6AF8AdABiAGQAZQBiAHUAZwBfAGUAeABjAGUAcAB0AGkAbwBuAHMAXwBmAG8AcgBtAAD/////AAD///////////0AAAM3AAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAAILQABAAAAAfsAAAACAAAAAgAAAAAAAAAB+wAAAAIAAAACAAAAAQAAAAD8AAAAKQAAAAAcADoAOgA6AE0ARABJAEEAUgBFAEEAVABJAEwARQEAAAAEiAAB/QAAArcAAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAAFBAAAAAAAA+wAAAAMAAAADAAAAAAAAAAIAAAAB+wAAAAMAAAADAAAAAAAAAAIAAAAB/QAAAIkAAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAAYOAAAAAAAC+wAAAAEAAAABAAAAAPsAAAABAAAAAQAAAAD8AAAAPwAAAAAqADEAOgA6ADoAXwB0AGIAbwB1AHQAcAB1AHQAdwBpAG4AXwBmAG8AcgBtAQD/////AAD///////////0AAAE5AAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAACSgAAAAAAAvsAAAADAAAAAwAAAAAAAAABAAAAAvsAAAADAAAAAwAAAAAAAAABAAAAAvwAAABJAAAAADQAMAA6ADoAOgBfAHQAYgBkAGUAYgB1AGcAXwBhAHUAdABvAHYAYQByAHMAXwBmAG8AcgBtAQD/////AAD///////////wAAABFAAAAADAAMAA6ADoAOgBfAHQAYgBkAGUAYgB1AGcAXwBsAG8AYwBhAGwAcwBfAGYAbwByAG0AAP////8AAP///////////AAAAEcAAAAAMgAwADoAOgA6AF8AdABiAGQAZQBiAHUAZwBfAG0AZQBtAGIAZQByAHMAXwBmAG8AcgBtAAD/////AAD///////////0AAACRAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAADvgAAAAAAAvsAAAABAAAAAQAAAAD7AAAAAQAAAAEAAAAA/AAAAEcAAAAAMgAwADoAOgA6AF8AdABiAGQAZQBiAHUAZwBfAHcAYQB0AGMAaABlAHMAXwBmAG8AcgBtAQD/////AAD//////////wAAAADbAAAAAAAAAALbAAAAAAAAAAHbAAAAAAAAAAPbAAAAAAAAAAA=
+QTOOLBAR 3 0
+AAAA/wAAAAD9AAAAAAAACb8AAAXPAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAIAAAAQAFMAdABhAG4AZABhAHIAZAEAAAAA/////wAAAAAAAAAAAAAAHgBDAHUAcgByAGUAbgB0ACAAQwBvAG4AdABlAHgAdAEAAAJw/////wAAAAAAAAAAAAAAAgAAAAEAAAAKAEQAZQBiAHUAZwEAAAAA/////wAAAAAAAAAA
+_tbstandard_form 1
+_tbcontext_form 1
+_tbdebugbb_form 1
+TBCLASS: 0 0
+STANDARD_LAYOUT: 58 1 41 11 5 M 0
+_tbclass_form F=8
+_tbderivedclasses_form F=40
+_tbbaseclasses_form F=40
+_tbdebug_classes_form F=64
+_tbdebug_threads_form F=64
+_tbopen_form F=40
+_tbslickc_stack_form F=8
+_tbregex_form F=40
+_tbdebug_exceptions_form F=384
+_tboutputwin_form F=8
+_tbtagrefs_form F=8
+_tbtagwin_form F=8
+_tbfind_symbol_form F=32
+_tbsymbol_props_form F=8
+_tbsearch_form F=8
+_tbbookmarks_form F=8
+_tbfind_form F=36
+_tbdeltasave_form F=0
+_tbunittest_form F=0
+_tbsymbolcalls_form F=40
+_tbshell_form F=8
+_tbdebug_stack_form F=64
+_tbdebug_regs_form F=64
+_tbclipboard_form F=44
+_tbbufftabs_form F=11
+_tbdebug_members_form F=64
+_tbdebug_memory_form F=64
+_tbFTPOpen_form F=0
+_tbfilelist_form F=44
+_tbmessages_browser_form F=8
+_tbFTPClient_form F=0
+_tbdebug_watches_form F=64
+_tbnotification_form F=36
+_tbsymbol_args_form F=8
+_tbannotations_browser_form F=0
+_tbcbrowser_form F=8
+_tbproctree_form F=8
+_tbprojects_form F=8
+_tbdebug_locals_form F=64
+_tbdebug_autovars_form F=64
+_tbdebug_breakpoints_form F=384
+_tbprojects_form T=1
+_tboutputwin_form T=0
+_tbcbrowser_form T=0
+_tbmessages_browser_form T=0
+_tbopen_form T=0
+_tbtagwin_form T=0
+_tbclass_form T=0
+_tbsearch_form T=0
+_tbtagrefs_form T=0
+_tbproctree_form T=0
+_tbshell_form T=0
+AAAAAwAAAAEAAAAD2gAAAAIAMAAAAAAAAAAgAAAJvgAABg4AAABBAAAAGAAACf8AAAY/AAAAAesAAAUEAAAAAfsAAAACAAAAAgAAAAAAAAAB+wAAAAIAAAACAAAAAAAAAAH9AAAB3QAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAtQAAQAAAAD7AAAAAgAAAAIAAAABAAAAAPsAAAACAAAAAgAAAAAAAAAB/QAAAV0AAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAAEgAAAAAAAB+wAAAAIAAAACAAAAAQAAAAD7AAAAAgAAAAIAAAABAAAAAP0AAACHAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAAC8AAAAAAAAvsAAAABAAAAAQAAAAD7AAAAAQAAAAEAAAAA/AAAAD0AAAAAKAAxADoAOgA6AF8AdABiAHAAcgBvAGoAZQBjAHQAcwBfAGYAbwByAG0BAP////8AAP///////////QAAAH8AAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAALwAAAAAAAC+wAAAAEAAAABAAAAAPsAAAABAAAAAQAAAAD8AAAANQAAAAAgADAAOgA6ADoAXwB0AGIAbwBwAGUAbgBfAGYAbwByAG0BAP////8AAP///////////AAAACkAAAAAHAA6ADoAOgBNAEQASQBBAFIARQBBAFQASQBMAEUBAAAABhkAAf0AAALTAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAABDQAAAAAAAvsAAAAJAAAACQAAAAIAAAAEAAAABgAAAAUAAAAAAAAABwAAAAEAAAADAAAACPsAAAAJAAAACQAAAAAAAAABAAAABQAAAAIAAAADAAAABAAAAAYAAAAHAAAACPwAAAA5AAAAACQAMAA6ADoAOgBfAHQAYgBzAGUAYQByAGMAaABfAGYAbwByAG0AAP////8AAP///////////AAAADkAAAAAJAAwADoAOgA6AF8AdABiAHQAYQBnAHcAaQBuAF8AZgBvAHIAbQAA/////wAA///////////8AAAANwAAAAAiADAAOgA6ADoAXwB0AGIAcwBoAGUAbABsAF8AZgBvAHIAbQEA/////wAA///////////8AAAATQAAAAA4ADAAOgA6ADoAXwB0AGIAbQBlAHMAcwBhAGcAZQBzAF8AYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP///////////AAAAD8AAAAAKgAwADoAOgA6AF8AdABiAG8AdQB0AHAAdQB0AHcAaQBuAF8AZgBvAHIAbQAA/////wAA///////////8AAAAOwAAAAAmADAAOgA6ADoAXwB0AGIAdABhAGcAcgBlAGYAcwBfAGYAbwByAG0AAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAHAAcgBvAGMAdAByAGUAZQBfAGYAbwByAG0AAP////8AAP///////////AAAADcAAAAAIgAwADoAOgA6AF8AdABiAGMAbABhAHMAcwBfAGYAbwByAG0AAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAGMAYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP//////////AAAAANsAAAAAAAAAAtsAAAAAAAAAAdsAAAAAAAAAA9sAAAAAAAAAANoAAAAeADAALQAxADUAMwAzADEANAAyADgANAA0ADIAOAAyAE4AAAIXAAAArQAABI4AAAVgAAAAQQAAABgAAAn/AAAGPwAAAAHrAAABCAAAAAD7AAAAAgAAAAIAAAAAAAAAAfsAAAACAAAAAgAAAAAAAAAB/QAAAIsAAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAAEAAAKAAAAAAAAC+wAAAAEAAAABAAAAAPsAAAABAAAAAQAAAAD8AAAAQQEAAAAgADEAOgA6ADoAXwB0AGIAZgBpAG4AZABfAGYAbwByAG0AAf////8AAAAAAc4AAAMLAAABZqGbyxkAAAAA/AAAACkAAAAAHAA6ADoAOgBNAEQASQBBAFIARQBBAFQASQBMAEUAAf////8AAAAAAADbAAAAAAAAAALbAAAAAAAAAAHbAAAAAAAAAAPbAAAAAAAAAADaAAAAHgAwAC0AMQA1ADMANwA0ADYANAAxADQAMwAzADIANABOAAAASQAAAIQAAAW8AAACHQAAAEEAAAAYAAAJ/wAABj8AAAAB6wAAARgAAAAA+wAAAAIAAAACAAAAAAAAAAH7AAAAAgAAAAIAAAAAAAAAAf0AAACbAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQABAAACgAAAAAAAAvsAAAABAAAAAQAAAAD7AAAAAQAAAAEAAAAA/AAAAFEBAAAAMAAwADoAOgA6AF8AdABiAHMAbABpAGMAawBjAF8AcwB0AGEAYwBrAF8AZgBvAHIAbQAB/////wAAAAAEBgAAAPcAAAFl+AF95wAAAAD8AAAAKQAAAAAcADoAOgA6AE0ARABJAEEAUgBFAEEAVABJAEwARQAB/////wAAAAAAANsAAAAAAAAAAtsAAAAAAAAAAdsAAAAAAAAAA9sAAAAAAAAAAA==
+QTOOLBAR 3 0
+AAAA/wAAAAD9AAAAAAAACb8AAAXvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAQAFMAdABhAG4AZABhAHIAZAEAAAAA/////wAAAAAAAAAAAAAAHgBDAHUAcgByAGUAbgB0ACAAQwBvAG4AdABlAHgAdAEAAAJw/////wUDBN8AG3//AAAACgBUAG8AbwBsAHMBAAACcP////8AAAAAAAAAAA==
+_tbstandard_form 1
+_tbtools_form 1
+_tbcontext_form 1
+APP_LAYOUT: 58 1 41 11 5 M 0
+_tbclass_form F=8
+_tbderivedclasses_form F=40
+_tbbaseclasses_form F=40
+_tbdebug_classes_form F=64
+_tbdebug_threads_form F=64
+_tbopen_form F=40
+_tbslickc_stack_form F=8
+_tbregex_form F=40
+_tbdebug_exceptions_form F=384
+_tboutputwin_form F=8
+_tbtagrefs_form F=8
+_tbtagwin_form F=8
+_tbfind_symbol_form F=32
+_tbsymbol_props_form F=8
+_tbsearch_form F=8
+_tbbookmarks_form F=8
+_tbfind_form F=36
+_tbdeltasave_form F=0
+_tbunittest_form F=0
+_tbsymbolcalls_form F=40
+_tbshell_form F=8
+_tbdebug_stack_form F=64
+_tbdebug_regs_form F=64
+_tbclipboard_form F=44
+_tbbufftabs_form F=11
+_tbdebug_members_form F=64
+_tbdebug_memory_form F=64
+_tbFTPOpen_form F=0
+_tbfilelist_form F=44
+_tbmessages_browser_form F=8
+_tbFTPClient_form F=0
+_tbdebug_watches_form F=64
+_tbnotification_form F=36
+_tbsymbol_args_form F=8
+_tbannotations_browser_form F=0
+_tbcbrowser_form F=8
+_tbproctree_form F=8
+_tbprojects_form F=8
+_tbdebug_locals_form F=64
+_tbdebug_autovars_form F=64
+_tbdebug_breakpoints_form F=384
+_tbprojects_form T=1
+_tboutputwin_form T=0
+_tbcbrowser_form T=0
+_tbmessages_browser_form T=0
+_tbopen_form T=0
+_tbtagwin_form T=0
+_tbclass_form T=0
+_tbsearch_form T=0
+_tbtagrefs_form T=0
+_tbproctree_form T=0
+_tbshell_form T=0
+AAAAAwAAAAEAAAAD2gAAAAIAMAAAAAAAAAAgAAAJvgAABg4AAABBAAAAGAAACf8AAAY/AAAAAesAAAUEAAAAAfsAAAACAAAAAgAAAAAAAAAB+wAAAAIAAAACAAAAAAAAAAH9AAAB3QAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAtQAAQAAAAD7AAAAAgAAAAIAAAABAAAAAPsAAAACAAAAAgAAAAAAAAAB/QAAAV0AAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAAEgAAAAAAAB+wAAAAIAAAACAAAAAQAAAAD7AAAAAgAAAAIAAAABAAAAAP0AAACHAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAAC8AAAAAAAAvsAAAABAAAAAQAAAAD7AAAAAQAAAAEAAAAA/AAAAD0AAAAAKAAxADoAOgA6AF8AdABiAHAAcgBvAGoAZQBjAHQAcwBfAGYAbwByAG0BAP////8AAP///////////QAAAH8AAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAALwAAAAAAAC+wAAAAEAAAABAAAAAPsAAAABAAAAAQAAAAD8AAAANQAAAAAgADAAOgA6ADoAXwB0AGIAbwBwAGUAbgBfAGYAbwByAG0BAP////8AAP///////////AAAACkAAAAAHAA6ADoAOgBNAEQASQBBAFIARQBBAFQASQBMAEUBAAAABhkAAf0AAALTAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAABDQAAAAAAAvsAAAAJAAAACQAAAAIAAAAEAAAABgAAAAUAAAAAAAAABwAAAAEAAAADAAAACPsAAAAJAAAACQAAAAAAAAABAAAABQAAAAIAAAADAAAABAAAAAYAAAAHAAAACPwAAAA5AAAAACQAMAA6ADoAOgBfAHQAYgBzAGUAYQByAGMAaABfAGYAbwByAG0AAP////8AAP///////////AAAADkAAAAAJAAwADoAOgA6AF8AdABiAHQAYQBnAHcAaQBuAF8AZgBvAHIAbQAA/////wAA///////////8AAAANwAAAAAiADAAOgA6ADoAXwB0AGIAcwBoAGUAbABsAF8AZgBvAHIAbQEA/////wAA///////////8AAAATQAAAAA4ADAAOgA6ADoAXwB0AGIAbQBlAHMAcwBhAGcAZQBzAF8AYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP///////////AAAAD8AAAAAKgAwADoAOgA6AF8AdABiAG8AdQB0AHAAdQB0AHcAaQBuAF8AZgBvAHIAbQAA/////wAA///////////8AAAAOwAAAAAmADAAOgA6ADoAXwB0AGIAdABhAGcAcgBlAGYAcwBfAGYAbwByAG0AAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAHAAcgBvAGMAdAByAGUAZQBfAGYAbwByAG0AAP////8AAP///////////AAAADcAAAAAIgAwADoAOgA6AF8AdABiAGMAbABhAHMAcwBfAGYAbwByAG0AAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAGMAYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP//////////AAAAANsAAAAAAAAAAtsAAAAAAAAAAdsAAAAAAAAAA9sAAAAAAAAAANoAAAAeADAALQAxADUAMwAzADEANAAyADgANAA0ADIAOAAyAE4AAAIXAAAArQAABI4AAAVgAAAAQQAAABgAAAn/AAAGPwAAAAHrAAABCAAAAAD7AAAAAgAAAAIAAAAAAAAAAfsAAAACAAAAAgAAAAAAAAAB/QAAAIsAAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAAEAAAKAAAAAAAAC+wAAAAEAAAABAAAAAPsAAAABAAAAAQAAAAD8AAAAQQEAAAAgADEAOgA6ADoAXwB0AGIAZgBpAG4AZABfAGYAbwByAG0AAf////8AAAAAAc4AAAMLAAABZqGbyxkAAAAA/AAAACkAAAAAHAA6ADoAOgBNAEQASQBBAFIARQBBAFQASQBMAEUAAf////8AAAAAAADbAAAAAAAAAALbAAAAAAAAAAHbAAAAAAAAAAPbAAAAAAAAAADaAAAAHgAwAC0AMQA1ADMANwA0ADYANAAxADQAMwAzADIANABOAAAASQAAAIQAAAW8AAACHQAAAEEAAAAYAAAJ/wAABj8AAAAB6wAAARgAAAAA+wAAAAIAAAACAAAAAAAAAAH7AAAAAgAAAAIAAAAAAAAAAf0AAACbAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQABAAACgAAAAAAAAvsAAAABAAAAAQAAAAD7AAAAAQAAAAEAAAAA/AAAAFEBAAAAMAAwADoAOgA6AF8AdABiAHMAbABpAGMAawBjAF8AcwB0AGEAYwBrAF8AZgBvAHIAbQAB/////wAAAAAEBgAAAPcAAAFl+AF95wAAAAD8AAAAKQAAAAAcADoAOgA6AE0ARABJAEEAUgBFAEEAVABJAEwARQAB/////wAAAAAAANsAAAAAAAAAAtsAAAAAAAAAAdsAAAAAAAAAA9sAAAAAAAAAAA==
+QTOOLBAR 3 0
+AAAA/wAAAAD9AAAAAAAACb8AAAXvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAQAFMAdABhAG4AZABhAHIAZAEAAAAA/////wAAAAAAAAAAAAAAHgBDAHUAcgByAGUAbgB0ACAAQwBvAG4AdABlAHgAdAEAAAJw/////wUDBN8AG3//AAAACgBUAG8AbwBsAHMBAAACcP////8AAAAAAAAAAA==
+_tbstandard_form 1
+_tbtools_form 1
+_tbcontext_form 1
